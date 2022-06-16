@@ -163,6 +163,13 @@ Instale-o pelo Windows Store e use estas [configurações padrões](windows-term
 
 Para sobrescrever as configurações **clique a seta para baixo do lado das abas e em configurações**, abrirá as configurações do Windows Terminal, apenas cole o conteúdo do arquivo JSON e salve.
 
+Ao colar atualizar a informação -- > "startingDirectory": "%USERPROFILE%"
+
+Se necessário, caso o SO não possua a fonte padrão do tema:
+* Adicionar fonte  JetBrains Mono para Windows Terminal, disponível em: https://www.jetbrains.com/pt-br/lp/mono/
+Descompactar e dentro da pasta de fontes, selecionar todas e acionar 'Instalar'
+
+
 ## O que o WSL 2 pode usar de recursos da sua máquina
 
 Podemos dizer que o WSL 2 tem acesso quase que total ao recursos de sua máquina. Ele tem acesso por padrão:
@@ -362,6 +369,5 @@ Exemplo gerando um log na Área de trabalho
 ## Ajuste realizados durante instalação:
 
 * Instação requereu atualização do wsl com o arquivo wsl_update_x64
-* Adicionar fonte  JetBrains Mono para Windows Terminal, disponível em: https://www.jetbrains.com/pt-br/lp/mono/
-Descompactar e dentro da pasta de fontes, selecionar todas e acionar 'Instalar'
+
 
