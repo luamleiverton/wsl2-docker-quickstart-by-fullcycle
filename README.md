@@ -360,6 +360,8 @@ Exemplo gerando um log na Área de trabalho
 
 
 ## Ajuste realizados durante instalação:
-Adicionar fonte  JetBrains Mono para Windows Terminal, disponível em: https://www.jetbrains.com/pt-br/lp/mono/
+
+* Instação requereu atualização do wsl com o arquivo wsl_update_x64
+* Adicionar fonte  JetBrains Mono para Windows Terminal, disponível em: https://www.jetbrains.com/pt-br/lp/mono/
 Descompactar e dentro da pasta de fontes, selecionar todas e acionar 'Instalar'
 
